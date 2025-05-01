@@ -1,6 +1,0 @@
-Contexto do Projeto:  
-A sorveteria "Gelato Mágico" busca prever vendas diárias com base na temperatura.  
-Objetivos:  
-- Reduzir desperdícios por produção excessiva.  
-- Evitar perda de vendas por falta de estoque.  
-- Criar um modelo de regressão para prever vendas usando Machine Learning.  
